@@ -1,0 +1,2 @@
+print(deneme)
+print('deneme')
