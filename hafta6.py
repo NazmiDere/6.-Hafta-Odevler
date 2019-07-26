@@ -1,2 +1,0 @@
-print(deneme)
-print('deneme')
